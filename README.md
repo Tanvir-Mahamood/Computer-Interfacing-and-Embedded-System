@@ -1,4 +1,5 @@
 # Computer Interfacing and Embedded System
+![alt text](https://github.com/Tanvir-Mahamood/Computer-Interfacing-and-Embedded-System2/blob/main/Arduino%20IDE/RGB.jpeg) 
 ## Components
 | SI | Component name | Quantity | 
 |---|---|---|
@@ -61,6 +62,10 @@ Debug Symbols and core logs: "None" `<br>`
 C Runntime Library: "Newlib Nano(default)" `<br>`
 Upload method: "STM32CubeProgrammer(SWD)"`
 9. Write a program. Then build and upload.
+
+|You may practice coading on|
+|---|
+| [WOKI](https://wokwi.com/projects/new/arduino-nano) |
 
 
 ### Keil uVision5
