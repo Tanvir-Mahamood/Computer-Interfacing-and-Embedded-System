@@ -72,3 +72,7 @@ Upload method: "STM32CubeProgrammer(SWD)"`
 [Start Keil project](https://youtu.be/LvfjFihNSgE?si=1y6YsQCeKM6bpcdX)
 > [!NOTE]
 > No need to configure simulation and XTAL, use either  Stm32f103c6 / stm32f103c8.
+
+
+## 📄 License
+This project is open source and available under the [Apache 2.0 License](LICENSE).
